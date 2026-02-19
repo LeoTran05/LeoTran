@@ -1,17 +1,17 @@
-#Experience
+# Experience
 
 Director of JWT Validation & Existential Middleware
 Lead Engineer of “It Works on My Machine” Infrastructure
 Former Head of Runtime Confusion & Controlled Panic at 3AM Deployments
 
-#Built:
+# Built:
 
 - REST APIs that actually respect HTTP status codes
 - Authentication flows that don’t store passwords in plain text
 - Systems that fail loudly and log aggressively
 - Code that survives refactoring (mostly)
 
-#Fluent in:
+# Fluent in:
 
 - Race conditions
 - Async await denial
